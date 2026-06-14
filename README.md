@@ -3,6 +3,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/xsh-lib/shadowsocks.svg?style=flat-square)](https://github.com/xsh-lib/shadowsocks/commits/main)
 
 [![CI](https://github.com/xsh-lib/shadowsocks/actions/workflows/ci.yml/badge.svg)](https://github.com/xsh-lib/shadowsocks/actions/workflows/ci.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/xsh-lib/shadowsocks/badge)](https://www.codefactor.io/repository/github/xsh-lib/shadowsocks)
 [![GitHub issues](https://img.shields.io/github/issues/xsh-lib/shadowsocks.svg?style=flat-square)](https://github.com/xsh-lib/shadowsocks/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/xsh-lib/shadowsocks.svg?style=flat-square)](https://github.com/xsh-lib/shadowsocks/pulls)
 
